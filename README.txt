@@ -10,4 +10,4 @@ node server.js
 cd frontend
 (npm install)
 npm run dev
-http://localhost:5175/
+http://localhost:5173/
